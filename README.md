@@ -23,17 +23,6 @@
 - .exe file that includes all the updated AIC files, starting resources, troops and customized game settings and mechanics. Use it to start the game.
 
 
-# DEMO Trail Missions:
-### 1. *Beauties & the Beasts* 
-map: North vs South (author - FireFly)
-#### This is an introductory mission which tests your creativity and your ability to play a familiar game in an unfamiliar style. You are presented with regular problems, but your solutions for them must be creative. Among others, your ability to assess various threats and correctly spread your forces and resources around the map - will be tested. This mission only focuses on the early game. Mira DeMalier makes her debut here.
-### 2. *Rat Ravine (demo)*
-map: Shaded Ravine (author - GOZZAH)
-#### Rat Ravine is easily one of the most memorable missions in the trail, and upon completing it I was so excited about having other people experience it, that I decided to clone it, make it easier and include it in the DEMO version. Lo and behold, #9 "Rat Ravine" is coming to you hot and early! This mission challenges your personal economy routine, teaches you unit micro-management skills and tests your abiliity to deal with sudden unexpected problems in real time with no backup plan. This mission mostly focuses on early and mid-game, however there might be a late "whoops, I am dead" situation if you play it recklessly.
-### 3. *Quest for Conquest*
-map: Lake Qaddas (author - FireFly)
-#### Final mission. This is the only mission created specifically for the DEMO trail instead of being replaced/cloned from the actual one. For that reason it lacks a special "soul" element, but it's pretty fun nonetheless. Your strategic thinking is put to a test here, because there are A LOT of different ways to play this one. Not all of them are good. It's up to you to carefully review the map and make the right list of priorities. Additionally, this stage sort of teaches you to make moves and decisions under constant pressure. This is also the only mission in the DEMO trail that has a SECOND PHASE, like any good raid boss. This mission focuses evenly on all 3 of early, mid and late game. It also focuses on your ability to SIEGE. Speaking of sieging... The "Iron Wolf" makes his debut here.
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Have fun! You can contact me on discord (goodwins1) or through an e-mail: crusader.goodwins@gmail.com
