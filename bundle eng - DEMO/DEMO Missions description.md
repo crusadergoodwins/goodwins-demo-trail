@@ -1,4 +1,3 @@
-# DEMO Trail Missions:
 ### 1. *Beauties & the Beasts* 
 map: North vs South (author - FireFly)
 #### This is an introductory mission which tests your ingenuity and your ability to play a familiar game in a new style. You will face familiar problems, but this time your solutions for them must be creative. Among others - your ability to assess various threats and correctly spread your forces and resources around the map - will be tested. This mission only focuses on the early game. Mira DeMalier makes her debut here.
