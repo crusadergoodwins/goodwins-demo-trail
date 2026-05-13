@@ -9,7 +9,7 @@
 6) Have fun!
 
 ### Important notes:
-• The mod will only run in Stronghold Crusader EXTREME (v1.41)
+• The mod will only run in Stronghold Crusader EXTREME (v1.41) (Magic is disabled)
 
 • The campaign itself should always be played on the original and unedited "Goodwins DEMO trail.exe" file as downloaded. Editing it or using UCP updater on it may overwrite and disable the ideal settings for the trail.
 
