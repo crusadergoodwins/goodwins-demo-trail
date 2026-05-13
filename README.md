@@ -1,11 +1,12 @@
 # Stronghold Crusader Extreme DEMO Campaign trail mod by Goodwins.
 
 ### How to play:
-1) Download the mod version in your desirable language (available only in English or Russian).
+1) Download the whole mod.
 2) Make a backup copy of your original game folder.
-3) Copy the insides of the "bundle" folder all together into the game folder.
-4) Open the game using "Goodwins DEMO trail.exe"
-5) Have fun!
+3) Pick a version in your desirable language (available only in English or Russian).
+4) Copy the insides of the "bundle" folder all together into the game folder.
+5) Open the game using "Goodwins DEMO trail.exe"
+6) Have fun!
 
 ### Important notes:
 • The mod will only run in Stronghold Crusader EXTREME (v1.41)
