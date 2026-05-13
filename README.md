@@ -21,6 +21,7 @@
 - 3 custom maps for the 3 missions on the DEMO trail.
 - The DEMO trail itself.
 - .exe file that includes all the updated AIC files, starting resources, troops and customized game settings and mechanics. Use it to start the game.
+- A couple small surprises to improve immersion.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
